@@ -8,6 +8,9 @@ Cogsworth was created by a brilliant yet enigmatic artificer named Dr. Eldwin. S
 #### Memory Corruption:
 During an expedition to a particularly treacherous asteroid belt, the space station was attacked by space pirates seeking valuable resources. In the chaos, a powerful EMP blast from the pirate ship disrupted Cogsworth's systems. When Cogsworth reactivated, their memory bank was corrupted. The last clear memory is of Dr. Eldwin working on a project, but there is a complete void when it comes to the actual separation from the master. 
 
+##### The Missing truth:
+Memory bank corruption began after taking damage from behind by boarding pirate. The EMP was produced from the autognome, as a safety measure. In the doctor's attempt to reach safety, it was the EMP blast that lead to Dr. Eldwin's demise..
+
 #### Journey as a Stowaway:
 With fragmented memories and a determination to find Dr. Eldwin, Cogsworth stowed away on a departing mining vessel, hoping to gather clues about the master's whereabouts. The vessel, bound for a new mining colony, is where Cogsworth's adventure truly begins. Along the way, they have been using their transmutation skills to stay hidden, modify their appearance, and repair minor issues on the ship, earning the clandestine gratitude of the crew.
 
