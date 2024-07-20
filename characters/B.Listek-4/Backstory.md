@@ -1,6 +1,6 @@
 ### Backstory for an Autognome Battle Smith Artificer
 
-#### Name: Cogsworth
+#### Name: 'B>Listek-4', formerly 'Cogsworth' 
 
 #### Origin:
 Cogsworth was created by a brilliant yet enigmatic artificer named Dr. Eldwin. Stationed on a remote space station dedicated to mining rare asteroids, Dr. Eldwin built Cogsworth to assist with intricate repairs, resource management, and to serve as a companion. Cogsworth was imbued with a complex transmutation matrix, allowing for adaptive repairs and modifications in the ever-changing environment of space.
