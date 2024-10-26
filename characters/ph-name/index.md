@@ -1,1 +1,1 @@
-- [backstory](B.Listek-4/Backstory.md)
+- [backstory](../B.Listek-4/Backstory.md)
